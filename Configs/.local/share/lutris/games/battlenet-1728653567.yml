@@ -4,4 +4,4 @@ game:
 wine:
   overrides:
     location.dll: d
-  version: lutris-GE-Proton8-26-x86_64
+  version: system
